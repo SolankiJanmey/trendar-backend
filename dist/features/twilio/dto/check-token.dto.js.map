@@ -1,0 +1,1 @@
+{"version":3,"file":"check-token.dto.js","sourceRoot":"","sources":["../../../../src/features/twilio/dto/check-token.dto.ts"],"names":[],"mappings":";;;;;;;;;;;;AAAA,qDAAuD;AACvD,6CAA8C;AAE9C,MAAa,UAAU;CAUtB;AANC;IAHC,IAAA,qBAAW,GAAE;IACb,IAAA,4BAAU,GAAE;IACZ,IAAA,0BAAQ,GAAE;;0CACI;AAKf;IAHC,IAAA,qBAAW,GAAE;IACb,IAAA,4BAAU,GAAE;IACZ,IAAA,0BAAQ,GAAE;;6CACO;AATpB,gCAUC"}
